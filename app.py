@@ -5,7 +5,7 @@ import time
 
 #def executar_automacao():
 # entrar na planilha
-workbook = openpyxl.load_workbook(r'C:\Users\User\projetos\Freela\Nfs-e.xlsx')
+workbook = openpyxl.load_workbook(r'C:\Users\User\projetos\Facilitador-fiscal\Nfs-e.xlsx')
 sheet_teste = workbook['teste']
 
 def executar_automacao():
